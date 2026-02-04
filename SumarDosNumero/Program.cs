@@ -18,6 +18,7 @@
 
             Console.WriteLine("La suma es: " + resultado);
             Console.ReadKey();
+            Console.WriteLine("gracias");
         }
     }
 }
