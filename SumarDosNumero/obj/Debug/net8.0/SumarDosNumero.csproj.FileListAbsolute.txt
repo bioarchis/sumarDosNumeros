@@ -1,0 +1,14 @@
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\bin\Debug\net8.0\SumarDosNumero.exe
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\bin\Debug\net8.0\SumarDosNumero.deps.json
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\bin\Debug\net8.0\SumarDosNumero.runtimeconfig.json
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\bin\Debug\net8.0\SumarDosNumero.dll
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\bin\Debug\net8.0\SumarDosNumero.pdb
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.AssemblyInfoInputs.cache
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.AssemblyInfo.cs
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.dll
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\refint\SumarDosNumero.dll
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.pdb
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\SumarDosNumero.genruntimeconfig.cache
+C:\Users\Jesus Diez\Desktop\fundamentosProgramacion_01\SumarDosNumero\SumarDosNumero\obj\Debug\net8.0\ref\SumarDosNumero.dll
